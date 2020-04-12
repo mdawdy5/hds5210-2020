@@ -1,0 +1,11 @@
+Week 07 Feedback
+
+31.1: OK
+31.2: OK
+32.1: 0/1 - HTML is a form of eXtensible Markup Language (XML)
+32.2: OK
+32.3: 0.5/1 - Since HTML is a form of XML, the lxml package will also work
+
+Overall: 3.5/5
+
+Comments:
