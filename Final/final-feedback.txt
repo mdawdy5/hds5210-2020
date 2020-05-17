@@ -1,0 +1,17 @@
+PART 1:
+That approach works.  Using Pandas read_html() would have been fewer steps, though.
+
+PART 2:
+Nice work
+
+PART 3:
+Great
+
+PART 4:
+Your code is mostly good, but it is hard coded to divide by a t=30 rather than the actual days.  So, your answers are off.  -1
+
+PART 5:
+Good
+
+PART 6:
+I didn't see any comments from you on interpretting the output.  -5
